@@ -1,0 +1,15 @@
+{
+  "name": "mte-productivity-suite",
+  "version": "0.0.0",
+  "description": "Desktop productivity suite: built to be open source, giving control to users to control their own data privacy.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zeno-the-dev",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^37.0.0"
+  }
+}
